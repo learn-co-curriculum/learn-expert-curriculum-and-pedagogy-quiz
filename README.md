@@ -42,5 +42,3 @@
 [ ] Peter Bell
 
 ???
-
-<p class='util--hide'>View <a href='https://learn.co/lessons/learn-expert-curriculum-and-pedagogy-quiz'>Learn Expert Curriculum and Pedagogy Quiz</a> on Learn.co and start learning to code for free.</p>
