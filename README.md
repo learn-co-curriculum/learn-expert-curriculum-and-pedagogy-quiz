@@ -5,7 +5,7 @@
 
 # Curriculum and Pedagogy Quiz
 
-?: When debugging a student's code and error messages, what's the firt thing you should ask the student?
+?: When debugging a student's code and error messages, what's the first thing you should ask the student?
 
 ( ) what are they trying to do
 (x) can they explain what the error message is saying
@@ -42,3 +42,5 @@
 [ ] Peter Bell
 
 ???
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/learn-expert-curriculum-and-pedagogy-quiz'>Learn Expert Curriculum and Pedagogy Quiz</a> on Learn.co and start learning to code for free.</p>
