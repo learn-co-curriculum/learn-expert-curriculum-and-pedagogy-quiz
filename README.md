@@ -19,9 +19,9 @@
 
 ?: When you do a screenshare with a student, you should: (check all that apply)
 
-[X] let the other experts know before you start
+[X] make sure qbot knows about the question (qbot take it if it wasn't assigned to you)
 [ ] make sure you've tried to solve the problem in all possible ways without it
-[X] try and keep it to less than 15 minutes
+[X] try and keep it to 20 minutes or less
 
 ?: When you're raising an issue or making a PR to curriculum, you should make it on repos in the
 
@@ -38,7 +38,7 @@
 ?: Who should you @mention when you raise an issue? (check all that apply)
 
 [X] the instructor that owns the section of the curriculum
-[X] Avidor
+[X] Ruth
 [ ] Peter Bell
 
 ???
