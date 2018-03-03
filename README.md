@@ -13,11 +13,11 @@
 
 ?: If a student isn't sure what their code does you should
 
-( ) use screenshare
+( ) pair program
 ( ) ask the student to push all their code to you
 (X) have the student try out their code in IRB, pry, console, or debugger
 
-?: When you do a screenshare with a student, you should: (check all that apply)
+?: When you do pair programming with a student, you should: (check all that apply)
 
 [X] make sure qbot knows about the question (qbot take it if it wasn't assigned to you)
 [ ] make sure you've tried to solve the problem in all possible ways without it
@@ -37,7 +37,7 @@
 
 ?: Who should you @mention when you raise an issue? (check all that apply)
 
-[X] the instructor that owns the section of the curriculum
+[X] the section lead that owns the section of the curriculum
 [X] Ruth
 [ ] Peter Bell
 
